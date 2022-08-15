@@ -7,15 +7,14 @@
 }
 
 
-
 .logo{
     
     max-width: 8%;
     max-height: 8%;
     position: relative;
     left: 385px;
-    
-   
+    right: 90px;
+       
 }
 
 @media screen and (max-width: 500px){
